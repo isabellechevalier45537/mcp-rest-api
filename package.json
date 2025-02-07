@@ -1,0 +1,10 @@
+{
+  "name": "mcp-rest-api",
+  "version": "0.1.0",
+  "description": "A TypeScript-based MCP server that enables testing of REST APIs through Cline. This tool allows you to test and interact with any REST API endpoints directly from your development environment.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
